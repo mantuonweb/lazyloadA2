@@ -28,6 +28,6 @@ const routes: Routes = [
 
 loadChildren:<relative path><filename>#<Class name of the module>
 ```
-##Then Go to http://localhost:4200/lazy/load-me
+## Then Go to http://localhost:4200/lazy/load-me
 
 http://localhost:4200/lazyloadmodule.module.chunk.js loaded @ run time
